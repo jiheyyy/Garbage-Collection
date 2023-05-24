@@ -1,7 +1,7 @@
 # 가비지 컬렉션(Garbage-Collection)
 ## 가비지 컬렉션이란?
 가비지 컬렉션(Garbage-Collection)은 프로그램 실행 중에 사용되지 않는 메모리를 자동으로 정리해주는 기능이다. 이를 통해 메모리 누수를 방지하고 프로그램의 안정성과 성능을 개선할 수 있다.
-
+![garbage-collection](https://github.com/jiheyyy/Garbage-Collection/assets/117721167/b560afad-a59b-462e-9645-cb7e58765580)
 
 
 ## 가비지 컬렉션의 필요성
